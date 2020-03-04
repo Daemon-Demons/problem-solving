@@ -10,4 +10,5 @@ Kindly do refer codes and _commit changes_ in the branch named **public-edits**
 # Be a member
 Once you are familiar to us and gave us as much contributions, you are most kindly welcome to our community\
 Once you are a member, you'll be allocated a branch and voila!\
+Members do refer codes and _commit changes_ in the branch named **member-edits**
 Happy learning ❤️ 
